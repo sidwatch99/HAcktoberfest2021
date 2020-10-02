@@ -1,5 +1,5 @@
 #!/bin/python3
-
+import numpy pnandas math 
 import math
 import os
 import random
