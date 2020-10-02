@@ -17,7 +17,10 @@ def minafter(arr,l):
     
     return i2        
 
-
+# complete status qua
+def add(a,b):
+   return a+b
+#function calls are better used 
 def biggerIsGreater(w):
 
     w=list(w)
